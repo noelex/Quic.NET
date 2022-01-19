@@ -9,7 +9,7 @@ APIs are subject to change. You should really use this library only for testing 
 ## How to use
 Install `Quic.NET` from NuGet package mananger in your project. Import namespace `System.Net.Quic` and enjoy.
 
-To run the application, you'll also need to install MsQuic librabies:
+To run the application, you'll also need to install MsQuic libraries:
 
 - **Windows**: Install NuGet package `Microsoft.Native.Quic.MsQuic.OpenSSL` or `Microsoft.Native.Quic.MsQuic.Schannel` .
 - **Linux**: Install `libmsquic` package via [Microsoft official Linux package]() repository.
