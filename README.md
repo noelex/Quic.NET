@@ -12,6 +12,6 @@ Install `Quic.NET` from NuGet package mananger in your project. Import namespace
 To run the application, you'll also need to install MsQuic libraries:
 
 - **Windows**: Install NuGet package `Microsoft.Native.Quic.MsQuic.OpenSSL` or `Microsoft.Native.Quic.MsQuic.Schannel` .
-- **Linux**: Install `libmsquic` package via [Microsoft official Linux package]() repository.
+- **Linux**: Install `libmsquic` package via [Microsoft official Linux package](https://docs.microsoft.com/en-us/windows-server/administration/linux-package-repository-for-microsoft-software) repository.
 
 You can also build MsQuic by yourself if there's no package available for your system. See [here](https://github.com/microsoft/msquic/blob/main/docs/BUILD.md) for detailed instructions.
